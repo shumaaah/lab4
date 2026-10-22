@@ -1,0 +1,12 @@
+/pthread1
+/pthread1_nojoin
+/pthread2
+/mutex1
+/server
+/server3
+/client
+/client3
+*.o
+B_output.txt
+C_output.txt
+.DS_Store
